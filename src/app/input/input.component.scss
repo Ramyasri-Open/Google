@@ -1,0 +1,21 @@
+.searchBox {
+  width: 580px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  border-radius: 30px;
+  border: solid 1px #ccc;
+}
+
+input {
+  padding: 13px;
+  flex: 2;
+  font-size: 16px;
+  outline: none;
+  border: none;
+}
+
+.icons {
+  padding: 15px;
+  display: flex;
+}
